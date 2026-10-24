@@ -1,0 +1,6 @@
+{
+  "name": "PromptCraft AI",
+  "description": "Turn simple ideas into clear, detailed, and structured AI prompts with a mobile-first prompt architect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
